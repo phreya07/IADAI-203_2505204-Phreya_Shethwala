@@ -43,3 +43,9 @@ Example walkthrough: Complete an Easy challenge for 20 EcoPoints. Join Moss Make
 The design uses ivory backgrounds, forest-green buttons, sage highlights and muted gold rewards. Rounded cards group related information, while labels such as Completed, Locked and Equipped show the status of each action.
 
 Home recommends an unfinished challenge that matches a selected interest when one is available. The AR scene and team leaderboard use simulated data. Mission records are self-reported, and EcoPoints track participation. The web demo stores profile details and progress in the browser.
+
+# Digital GreenWall — Prototype Screenshots
+<img width="1160" height="639" alt="image" src="https://github.com/user-attachments/assets/543a7e92-a074-4fbf-abe1-7d45e0d42ca7" />
+
+
+
