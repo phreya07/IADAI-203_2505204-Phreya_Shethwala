@@ -47,5 +47,22 @@ Home recommends an unfinished challenge that matches a selected interest when on
 # Digital GreenWall — Prototype Screenshots
 <img width="1160" height="639" alt="image" src="https://github.com/user-attachments/assets/543a7e92-a074-4fbf-abe1-7d45e0d42ca7" />
 
+<img width="755" height="624" alt="image" src="https://github.com/user-attachments/assets/d553c897-4702-4d17-9212-cc2550b0d6a3" />
+
+<img width="719" height="579" alt="image" src="https://github.com/user-attachments/assets/f1a2aa00-6557-488f-8dc6-df6bf69d7aee" />
+
+<img width="686" height="519" alt="image" src="https://github.com/user-attachments/assets/12421823-1138-496c-9770-7bd33372350d" />
+
+<img width="655" height="519" alt="image" src="https://github.com/user-attachments/assets/e47d9462-23f0-41cc-811e-f7675cdaef16" />
+
+<img width="666" height="382" alt="image" src="https://github.com/user-attachments/assets/c32be4c3-ad17-4f99-9c8a-e5161fd77197" />
+
+<img width="649" height="471" alt="image" src="https://github.com/user-attachments/assets/4863cafb-8ea2-4648-aa98-1f7147723197" />
+
+
+
+
+
+
 
 
