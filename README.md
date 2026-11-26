@@ -44,6 +44,17 @@ The design uses ivory backgrounds, forest-green buttons, sage highlights and mut
 
 Home recommends an unfinished challenge that matches a selected interest when one is available. The AR scene and team leaderboard use simulated data. Mission records are self-reported, and EcoPoints track participation. The web demo stores profile details and progress in the browser.
 
+# Digital GreenWall — Survey Summary
+In the 10 simulated responses, five students chose to spend time outdoors about once a week, three did so a few times a week, and two rarely did. Six reported spending two to under four hours on recreational screens on a typical school day. Three reported one to under two hours, and one reported four hours or more.
+
+Lack of time was the most common barrier to spending time outdoors, selected by six students. Two said they were unsure what to do outdoors, and two preferred indoor activities. If this pattern also appears in the real survey, it would support offering short challenges with clear instructions so students can get started even on a busy day.
+
+Care for a Plant was the most popular activity, chosen by five students. Three chose a nature walk, while spotting a bird and sketching a leaf received one vote each. This suggests that plant care could work well as the first Easy challenge, with a nature walk as an option for students who want to spend more time outside.
+
+Four students chose growing a plant avatar as their main reason to try another challenge, three chose seeing their progress, two chose working toward a team goal, and one chose earning badges. Since the avatar was the most popular individual option, I would make its growth easy to see on My GreenWall and use the progress bar to show how close students are to the next stage.
+
+
+
 # Digital GreenWall — Prototype Screenshots
 <img width="1160" height="639" alt="image" src="https://github.com/user-attachments/assets/543a7e92-a074-4fbf-abe1-7d45e0d42ca7" />
 
